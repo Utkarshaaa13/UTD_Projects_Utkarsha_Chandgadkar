@@ -1,3 +1,8 @@
+🗃️ ClearCare PostgreSQL Project
+Led the project end-to-end, orchestrating architecture design, delegating tasks, and driving successful delivery while ensuring high data integrity and system efficiency.
+Designed and managed relational databases using PostgreSQL for simulating operations of a healthcare-related application. 
+Project highlights include data modeling, schema creation, normalization, and executing complex SQL queries for reporting and performance analysis.
+
 📊 Big Data Project
 Designed and implemented a big data pipeline to process and analyze large-scale datasets using Apache Hadoop and Apache Spark. 
 The project demonstrates distributed data processing, data cleansing, and performance optimization techniques for real-time analytics. 
@@ -12,8 +17,3 @@ Emphasis was placed on clean code, aesthetic presentation, and data-driven insig
 Built a data-driven rental insights platform focused on the UTD Comet Way area. 
 Conducted exploratory data analysis and developed predictive models to assist in decision-making for students and landlords. 
 Technologies used include Python, Pandas, Scikit-learn, and visualization libraries to deliver actionable rental market trends.
-
-🗃️ ClearCare PostgreSQL Project
-Led the project end-to-end, orchestrating architecture design, delegating tasks, and driving successful delivery while ensuring high data integrity and system efficiency.
-Designed and managed relational databases using PostgreSQL for simulating operations of a healthcare-related application. 
-Project highlights include data modeling, schema creation, normalization, and executing complex SQL queries for reporting and performance analysis.
